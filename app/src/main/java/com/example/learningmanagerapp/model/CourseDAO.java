@@ -1,4 +1,4 @@
-package com.example.learningmanagerapp.Model;
+package com.example.learningmanagerapp.model;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
